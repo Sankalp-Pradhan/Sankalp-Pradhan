@@ -1,10 +1,10 @@
 <h3 align="center">A Data Science enthusiats with passion in UI/UX designing and developement</h3>
 
-<h3> Programming Languages: HTML, CSS, JavaScript, Python, 
-Frameworks/Libraries: React.js, Barba.js, Three.js, NumPy, Pandas, Matplotlib
-Databases: Firebase
-Tools: Git, GitHub, Figma
-Cloud Platform: Firebase</h3>
+<h6> Programming Languages:</h6> HTML, CSS, JavaScript, Python, 
+<h6>Frameworks/Libraries:</h6> React.js, Barba.js, Three.js, NumPy, Pandas, Matplotlib
+<h6>Databases: </h6>Firebase
+<h6>Tools:</h6> Git, GitHub, Figma
+<h6>Cloud Platform:</h6> Firebase
 <!--
 **Sankalp-Pradhan/Sankalp-Pradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

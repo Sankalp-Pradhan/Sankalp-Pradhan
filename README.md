@@ -1,4 +1,4 @@
-## Hi there 👋
+<h3 align="center">A Data Science enthusiats with passion in UI/UX designing and developement</h3>
 
 <!--
 **Sankalp-Pradhan/Sankalp-Pradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sankalp Pradhan</h1>
-<h3 align="center">A passionate open-source contributor pursuing BCA -DATA-SCIENCE 2nd sem currently 9.45 CGPA and a MERN developer, participated in 15+ hackathons with expertise in UI/UX designing (Figma). A beginner in Firebase development, I blend creativity with a strong enthusiasm for data science and a foundational knowledge of AI-ML (NLP) to craft innovative, user-friendly solutions.</h3>
+<h3 align="center">lets see
+</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalp-pradhan" alt="sankalp-pradhan" /></a> </p>
 

@@ -13,7 +13,7 @@ Building modern, scalable web apps with **Next.js, React, Node.js, and TypeScrip
 
 - 🎓 2nd-year BCA in Data Science at **SRMIST** — CGPA **9.55**
 - 📦 Author of **[`kesp-ui`](https://www.npmjs.com/package/kesp-ui)** — open-source React component library on npm
-- 🛠️ Comfortable across the stack: REST APIs, CI/CD, agile workflows
+- 🖌️Part time Artist
 - 🌱 Currently exploring system design, performance, and developer tooling
 
 ---
@@ -52,15 +52,6 @@ Collaborative task management platform with Kanban, Table, and Calendar views.
 - Task assignment, due dates, and progress tracking
 > `Next.js` · `TypeScript` · `Appwrite` · `Hono` · `TanStack Query` · `shadcn/ui`
 
----
-
-## 🏆 Achievements
-
-- 📝 **Research Paper** — *Intelligent Lane & Object Detection System with AI-Based Driver Assistance*, presented at **AIESFS-2025**, Government Arts College
-- 🥈 **Runner-Up** — CyberFest Cybersecurity Competition (2nd of 50+ teams)
-- 🎨 Participant — 7th National Symposium on UI/UX
-- 💻 IIT Ropar — Joy of Computing Workshop (iHub-AWaDH)
-- 📊 Data Science with Python — Certification
 
 ---
 

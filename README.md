@@ -1,18 +1,71 @@
-<h1 align="center">Hi 👋, I'm Sankalp Pradhan</h1>
-<h3 align="center">lets see
-</h3>
+# Hi, I'm Sankalp Pradhan 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalp-pradhan" alt="sankalp-pradhan" /></a> </p>
+**Full Stack Developer** • BCA (Data Science) @ SRMIST, Chennai
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sankalp1906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sankalp1906" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sankalp-pradhan-ba3752310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sankalp-pradhan-ba3752310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/cUQzBmWC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/cUQzBmWC" height="30" width="40" /></a>
-</p>
+Building modern, scalable web apps with **Next.js, React, Node.js, and TypeScript**. Published an open-source npm package, shipped products to production on Vercel, and love crafting fast, user-centric experiences.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+📍 Chennai, India  •  ✉️ [sankalp19.work@gmail.com](mailto:sankalp19.work@gmail.com)
+🔗 [LinkedIn](#)  •  [GitHub](#)  •  [Portfolio](#)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankalp-pradhan&show_icons=true&locale=en" alt="sankalp-pradhan" /></p>
+---
+
+## 🚀 About Me
+
+- 🎓 2nd-year BCA in Data Science at **SRMIST** — CGPA **9.55**
+- 📦 Author of **[`kesp-ui`](https://www.npmjs.com/package/kesp-ui)** — open-source React component library on npm
+- 🛠️ Comfortable across the stack: REST APIs, CI/CD, agile workflows
+- 🌱 Currently exploring system design, performance, and developer tooling
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend** — Next.js · React · TypeScript · Tailwind CSS · shadcn/ui · Framer Motion · GSAP
+**Backend** — Node.js · Express · Hono · Next.js API Routes · Firebase · REST APIs
+**Databases** — MongoDB · Appwrite · Firebase
+**Languages** — JavaScript · TypeScript · Python · C++
+**Libraries** — TanStack Query · NumPy · Pandas · Matplotlib
+**Tools** — Git · GitHub · Postman · VS Code · Vercel · npm · pnpm · bun
+
+---
+
+## 🌟 Featured Projects
+
+### 📦 [kesp-ui](#)
+Open-source React component library for Indian validation inputs (Aadhaar, PAN, OTP, Phone) with built-in validation and animations.
+- Published to **npm**; supports controlled & uncontrolled modes
+- Bundler-adaptive — works with npm, pnpm, and bun out of the box
+- Ships with a full documentation site
+> `Next.js` · `React` · `TypeScript` · `Tailwind CSS`
+
+### 📈 [CoinPulse](#)
+Cryptocurrency market analytics app with real-time price charts and candlestick visualizations.
+- Live prices across 4 timeframes (1D / 1W / 1M / 1Y) via **CoinGecko API**
+- Interactive candlestick charts powered by the **TradingView API**
+- Multi-currency conversion (USD / EUR / BTC)
+> `Next.js` · `TypeScript` · `Tailwind CSS` · `TradingView` · `CoinGecko`
+
+### ✅ [Taskify](#)
+Collaborative task management platform with Kanban, Table, and Calendar views.
+- Role-based access control (Admin / Member) with secure invite links
+- Drag-and-drop Kanban with real-time status updates
+- Task assignment, due dates, and progress tracking
+> `Next.js` · `TypeScript` · `Appwrite` · `Hono` · `TanStack Query` · `shadcn/ui`
+
+---
+
+## 🏆 Achievements
+
+- 📝 **Research Paper** — *Intelligent Lane & Object Detection System with AI-Based Driver Assistance*, presented at **AIESFS-2025**, Government Arts College
+- 🥈 **Runner-Up** — CyberFest Cybersecurity Competition (2nd of 50+ teams)
+- 🎨 Participant — 7th National Symposium on UI/UX
+- 💻 IIT Ropar — Joy of Computing Workshop (iHub-AWaDH)
+- 📊 Data Science with Python — Certification
+
+---
+
+## 📫 Let's Connect
+
+If you'd like to collaborate, hire, or just chat about web dev — reach out!
+✉️ **sankalp19.work@gmail.com**
 

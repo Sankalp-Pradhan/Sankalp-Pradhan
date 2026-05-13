@@ -11,7 +11,6 @@ Building modern, scalable web apps with **Next.js, React, Node.js, and TypeScrip
 
 ## 🚀 About Me
 
-- 🎓 2nd-year BCA in Data Science at **SRMIST** — CGPA **9.55**
 - 📦 Author of **[`kesp-ui`](https://www.npmjs.com/package/kesp-ui)** — open-source React component library on npm
 - 🖌️Part time Artist
 - 🌱 Currently exploring system design, performance, and developer tooling
